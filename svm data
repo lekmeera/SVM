@@ -1,0 +1,2 @@
+SVM is a linear model for classification and regression problem.
+The objective of SVM is to find a hyperplane in an N dimensional space (N number of features)that distictly classifies data points.
